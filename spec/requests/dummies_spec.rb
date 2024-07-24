@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-RSpec.describe "Dummy", type: :request do
+RSpec.describe "Dummies", type: :request do
   describe "GET /dummies" do
     it "returns http success" do
       get "/dummies"
